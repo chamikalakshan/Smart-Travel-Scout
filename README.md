@@ -8,7 +8,7 @@ Built as a technical assessment for a product-minded engineer role.
 
 ## Live Demo
 
-> Deployed on Vercel — _add your URL here after deployment_
+🔗 **[https://smart-travel-scout-new.vercel.app](https://smart-travel-scout-new.vercel.app)**
 
 ---
 
